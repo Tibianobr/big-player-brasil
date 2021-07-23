@@ -1,5 +1,7 @@
 # BIG PLAYER BRASIL
 
+Servidor que permite usuários se cadastrarem e enviar as suas inscrições. Depois os avaliadores podem julgar os candidatos!
+
 ## Como rodar:
 Suba o mongodb e mongo-express pelo docker executando o docker-compose pelo comando:
 ```bash
